@@ -1,2 +1,3 @@
 # bookbot
-Bookbot to analyze novels and return wc / char usage
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
